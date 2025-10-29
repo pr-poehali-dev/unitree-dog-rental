@@ -330,12 +330,12 @@ const Index = () => {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div className="grid grid-cols-2 gap-4">
               <img 
-                src="https://cdn.poehali.dev/projects/d9f7c694-b8cf-4993-a895-50270752ab36/files/4398d852-9a8b-4967-9306-ddbd03ae96b9.jpg"
+                src="https://cdn.poehali.dev/projects/d9f7c694-b8cf-4993-a895-50270752ab36/files/9a373d1f-91db-4960-b601-c2828ddbbc50.jpg"
                 alt="Robot at corporate event"
                 className="rounded-xl shadow-lg hover:scale-105 transition-transform"
               />
               <img 
-                src="https://cdn.poehali.dev/projects/d9f7c694-b8cf-4993-a895-50270752ab36/files/94b35fe5-3361-4920-9a34-09c5ae3f33b7.jpg"
+                src="https://cdn.poehali.dev/projects/d9f7c694-b8cf-4993-a895-50270752ab36/files/2db8a9ca-7606-4df4-a8eb-a67d45ee623e.jpg"
                 alt="Robot at party"
                 className="rounded-xl shadow-lg hover:scale-105 transition-transform mt-8"
               />
