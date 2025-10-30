@@ -93,7 +93,7 @@ const Index = () => {
     {
       icon: "Cpu",
       title: "Высокотехнологичный робот",
-      description: "Unitree Go2 Air — один из самых продвинутых роботов-квадрупедов в мире"
+      description: "Unitree Go2 Air — один из самых продвинутых роботов-квадроберов в мире"
     },
     {
       icon: "Battery",
