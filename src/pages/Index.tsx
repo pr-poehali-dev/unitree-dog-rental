@@ -330,7 +330,7 @@ const Index = () => {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div className="grid grid-cols-2 gap-4">
               <img 
-                src="https://cdn.poehali.dev/projects/d9f7c694-b8cf-4993-a895-50270752ab36/files/9a373d1f-91db-4960-b601-c2828ddbbc50.jpg"
+                src="https://cdn.poehali.dev/projects/d9f7c694-b8cf-4993-a895-50270752ab36/files/c2d86ed9-92ea-4fd3-b998-d9c2b7d050c8.jpg"
                 alt="Robot at corporate event"
                 className="rounded-xl shadow-lg hover:scale-105 transition-transform"
               />
