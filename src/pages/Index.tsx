@@ -335,7 +335,7 @@ const Index = () => {
                 className="rounded-xl shadow-lg hover:scale-105 transition-transform"
               />
               <img 
-                src="https://cdn.poehali.dev/projects/d9f7c694-b8cf-4993-a895-50270752ab36/files/2db8a9ca-7606-4df4-a8eb-a67d45ee623e.jpg"
+                src="https://cdn.poehali.dev/files/57f1e0c5-1029-4253-9cac-76e7b1d99fd0.jpeg"
                 alt="Robot at party"
                 className="rounded-xl shadow-lg hover:scale-105 transition-transform mt-8"
               />
